@@ -1,4 +1,4 @@
-***PowerBi_Dashboard_Project***
+***Ecommerce_Business_Snapshot***
 
-Cuatomer Orders and Details Dashboard using Power BI
+Customer Orders and Details Dashboard using Power BI
 
